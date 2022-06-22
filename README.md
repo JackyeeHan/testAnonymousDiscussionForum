@@ -12,6 +12,9 @@
 
 ![image](https://github.com/JackyeeHan/testAnonymousDiscussionForum/blob/main/ForumTest-1.png)
 
-4.如果再用另一台手機開啟並輸入內容，原本的模擬器也會即時更新內容
+4.如果再用另一台手機開啟並輸入內容，兩邊也都會即時更新
 
-![image]()
+![image](https://github.com/JackyeeHan/testAnonymousDiscussionForum/blob/main/Forum1.png)
+
+
+![image](https://github.com/JackyeeHan/testAnonymousDiscussionForum/blob/main/Forum2.png)
